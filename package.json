@@ -1,0 +1,41 @@
+{
+  "name": "apijs-mongo",
+  "version": "1.0.0",
+  "description": "Users can create api's directly by using this liabrary without spending time on coding in express and mongoose.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyasgkhakal100/API.JS-Mongo.git"
+  },
+  "keywords": [
+    "apijs",
+    "mongodb",
+    "mongoose",
+    "express",
+    "api",
+    "api-js",
+    "api-js-mongo",
+    "api-js-mongoose",
+    "api-js-express",
+    "api-js-express-mongo",
+    "api-js-express-mongoose",
+    "api-js-express-mongoose-mongodb",
+    "easy-backend-api",
+    "easy-backend-api-js",
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "Shreyas G Khakal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shreyasgkhakal100/API.JS-Mongo/issues"
+  },
+  "homepage": "https://github.com/Shreyasgkhakal100/API.JS-Mongo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  }
+}
