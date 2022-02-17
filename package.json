@@ -1,6 +1,6 @@
 {
   "name": "apijs-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Users can create api's directly by using this liabrary without spending time on coding in express and mongoose.",
   "main": "src/index.js",
   "scripts": {
